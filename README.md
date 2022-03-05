@@ -1,4 +1,4 @@
-# Showing product price with Tooltip in Flutter
+# Showing product price with Tooltip - Flutter
 ## Preview
 
 # ⚠️ Essential Packages 
